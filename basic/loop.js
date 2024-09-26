@@ -89,16 +89,16 @@
 // 5
 // 1+2+3+4+5 = 15
 
-let n = 10000;
-let i = 1;
-let sum = 0;
+// let n = 10000;
+// let i = 1;
+// let sum = 0;
 
-while (i <= n) {
-  sum = sum + i;
-  i++;
-}
+// while (i <= n) {
+//   sum = sum + i;
+//   i++;
+// }s
 
-console.log(sum);
+// console.log(sum);
 
 // 1
 // 1 2
