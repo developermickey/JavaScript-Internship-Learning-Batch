@@ -115,3 +115,23 @@
 // let ans3 = sum(10, 20);
 
 // console.log(ans1, ans2, ans3);
+
+// function sum(a, b, c) {
+//   return a + b + c;
+// }
+
+// console.log(sum(1, 2, 3));
+
+// function sum(a, b, c) {
+//   return a + b + c;
+// }
+
+// ES6 Arrow Function
+
+// let sum = (a, b) => {
+//   return a + b;
+// };
+
+// console.log(sum(2, 3));
+
+
